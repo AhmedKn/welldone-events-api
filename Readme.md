@@ -24,7 +24,7 @@ Well Done Events est une société d’organisation des événements .Elle propo
 
 
 ## 🛠 Tech Stack
-Node.js , Express.js , CORS, googleapis , jsonwebtoken , mongoose , multer , Nodemailer , cloudinary , NGINX , VPS
+Node.js , Express.js , CORS, googleapis , jsonwebtoken , mongoose , multer , Nodemailer , cloudinary , NGINX , VPS , ubuntu
 
 
 ## Environment Variables
